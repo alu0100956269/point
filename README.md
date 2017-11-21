@@ -3,6 +3,9 @@
 Creación de una gema con la clase que representa un punto en el espacio bidimensional.
 Permite estudiar los conceptos de programación orientada a objetos.
 
+##Fork y Travis CI
+Este repositorio es un fork que hemos hecho para ver la funcionalidad de travis
+
 ## Installation
 
 Add this line to your application's Gemfile:
